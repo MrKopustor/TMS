@@ -7,7 +7,7 @@
     <groupId>com.teachmeskills</groupId>
     <artifactId>TMS</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>hw_35</name>
+    <name>tms</name>
     <packaging>war</packaging>
 
     <properties>
@@ -18,6 +18,11 @@
     </properties>
 
     <dependencies>
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.6.0</version>
+        </dependency>
         <dependency>
             <groupId>jakarta.servlet</groupId>
             <artifactId>jakarta.servlet-api</artifactId>

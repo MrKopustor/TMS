@@ -20,7 +20,7 @@
 <div class="container">
     <h2>Information User</h2>
     <form class="center-block shadow-sm p-3 mb-5 bg-body-tertiary rounded"
-          action="${pageContext.request.contextPath}/user-information" method="post">
+          action="${pageContext.request.contextPath}/user-information" method="get">
         <div class="mb-3">
             <label for="userID" class="form-label">ID</label>
             <input type="text" class="form-control" id="userID" name="userID">

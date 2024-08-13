@@ -1,4 +1,4 @@
-package com.teachmeskills.hw_35.servlet;
+package com.teachmeskills.hw_35.database.servlet;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

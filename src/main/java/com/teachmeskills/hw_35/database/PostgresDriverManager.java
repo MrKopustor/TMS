@@ -1,4 +1,4 @@
-package com.teachmeskills.hw_35.database;
+package com.teachmeskills.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

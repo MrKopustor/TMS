@@ -27,7 +27,7 @@
             <div id="IDHelp" class="form-text">Specify user ID, change login.</div>
         </div>
         <div class="mb-3">
-            <label for="login" class="form-label">Login</label>
+            <label for="login" class="form-label">New Login</label>
             <input type="text" class="form-control" id="login" name="login">
             <div id="LoginHelp" class="form-text">Come up with a login that will contain no more than 50 elements.</div>
         </div>
